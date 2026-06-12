@@ -19,4 +19,4 @@ A chatbot that allows users to upload PDF documents and ask questions about thei
 - Semantic Retrieval
 ## Screenshot
 
-![RAG PDF Chatbot](screenshots/app.png)
+![RAG PDF Chatbot](screenshots/app.png
