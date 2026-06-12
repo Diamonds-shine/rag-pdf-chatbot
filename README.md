@@ -18,6 +18,4 @@ A chatbot that allows users to upload PDF documents and ask questions about thei
 - Vector Search using FAISS
 - Semantic Retrieval
 
-## Screenshot
 
-<img src="screenshots/app.png" width="800">
